@@ -1,1 +1,1 @@
-# Kubernetes-tutorial-for-mlops-
+# Kubernetes-tutorial-for-mlops
